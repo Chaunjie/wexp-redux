@@ -1,0 +1,23 @@
+{
+  "name": "wexp-redux",
+  "version": "1.0.0",
+  "description": "redux for wexp",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chaunjie/wexp-redux.git"
+  },
+  "keywords": [
+    "redux",
+    "wexp"
+  ],
+  "author": "chuanjie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chaunjie/wexp-redux/issues"
+  },
+  "homepage": "https://github.com/Chaunjie/wexp-redux#readme"
+}

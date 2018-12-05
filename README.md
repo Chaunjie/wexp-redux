@@ -1,5 +1,5 @@
 # wexp-redux
-该插件仅使用于`wexp`框架，`wexp-cli`版本要求`^1.0.5`
+该插件仅使用于`wexp`框架，[`wexp-cli`](https://github.com/Chaunjie/wexp-cli)版本要求`^1.0.5`, 可参考[`wexp-redux-demo`](https://github.com/Chaunjie/wexp-redux-demo)
 
 ## 安装
 ```bash
